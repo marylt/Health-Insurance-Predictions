@@ -1,2 +1,2 @@
-# IS603GroupProject
-Repository for IS603 Decision Making Support Systems Group Project
+# Health Insurance Predictions
+Repository for utilizing Python, Exploratory Data Analytics, and Machine Learning to curate findings and predictions using healthcare data.
